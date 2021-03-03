@@ -1,6 +1,6 @@
-# Hello, World!
- Test of current version, course of git and github
+Calculadora Com Repetição 
 
-
- Esse repositório é para teste e em breve para uso cotidiano
-Em breve tenho ideias para fazer um novo código !
+Essa calculadora foi elaborada de forma descontraída e por isso pode conter alguns erros.
+Feita em phyton.
+Funciona como uma calculadora com as quatro operações básicas, porém, há um cliclo, criado em funçoes que permitem a reexecução de todo o comando.
+Podendo executar várias operações sem a necessidade de encerrar o progama 
